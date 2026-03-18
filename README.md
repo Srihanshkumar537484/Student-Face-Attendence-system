@@ -23,17 +23,11 @@
 
 Student-Face-Attendance/
 ├── dataset/             # Student ki photos ka folder
-
 ├── sql/                 # Database schema aur SQL scripts
-
 ├── main.py              # Main application entry point
-
 ├── attendance.py        # Recognition logic
-
 ├── db_helper.py         # SQL connection aur CRUD functions
-
 ├── requirements.txt     # Python libraries
-
 └── config.json          # Database credentials
 
 1.⚙️ Installation & Setup
