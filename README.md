@@ -50,7 +50,11 @@ Run the Project:
 python main.py
 
 💡 How It Works
+
 1.Training: Sabse pehle students ke chehre scan karke dataset folder mein save kiye jate hain.
+
 2.Detection: Jab camera on hota hai, OpenCV har frame mein face detect karta hai.
+
 3.Matching: System captured image ko database mein maujood images se compare karta hai.
+
 4.Attendance: Agar match milta hai, toh current date aur time ke saath SQL table mein entry ho jati hai.
